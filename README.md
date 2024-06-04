@@ -217,15 +217,15 @@ Neste projeto recebi a designação para atuar como Product Owner. Fui responsá
 <p>🌟Tela Sobreaviso do Funcionário</p>
 <img src="https://github.com/DanielaMeirelles/Portifolio_API/blob/main/Imagens%20e%20documentos/sobreaviso_funcionario.png" width="600" height="300" align="center">
 <p>🌟Tela Sobreaviso do Gestor</p>
-<img src="https://github.com/DanielaMeirelles/Portifolio_API/blob/main/Imagens%20e%20documentos/sobreaviso_gestor.png" width="600" height="300" align="center">
+<img src="https://github.com/DanielaMeirelles/Portifolio_API/blob/main/Imagens%20e%20documentos/sobreaviso_gestor.png" width="600" height="500" align="center">
 <p>🌟Tela Centro de Resultados</p>
-<img src="https://github.com/DanielaMeirelles/Portifolio_API/blob/main/Imagens%20e%20documentos/tela%20centro%20de%20resultads.png" width="600" height="300" align="center">
+<img src="https://github.com/DanielaMeirelles/Portifolio_API/blob/main/Imagens%20e%20documentos/tela%20centro%20de%20resultads.png" width="600" height="500" align="center">
 
 ➡️ Modelagem do banco de dados
 <p>📑Modelo Conceitual</p>
-<img src="https://github.com/DanielaMeirelles/Portifolio_API/blob/main/Imagens%20e%20documentos/mconceitual.jpeg" width="600" height="300" align="center">
+<img src="https://github.com/DanielaMeirelles/Portifolio_API/blob/main/Imagens%20e%20documentos/mconceitual.jpeg" width="600" height="400" align="center">
 <p>📑Modelo Lógico</p>
-<img src="https://github.com/DanielaMeirelles/Portifolio_API/blob/main/Imagens%20e%20documentos/mlogico.png" width="600" height="300" align="center">
+<img src="https://github.com/DanielaMeirelles/Portifolio_API/blob/main/Imagens%20e%20documentos/mlogico.png" width="600" height="400" align="center">
 
 #### Hard Skills 👩‍💻
 - HTML: nível intermediário
