@@ -80,14 +80,14 @@ Os dados visualizados no dashboard foram:
 
 #### Tecnologias Utilizadas
 
-C# - desenvolvimento da plataforma desktop
-PlpgSQL - banco de dados
-Teams - realização das reuniões
-Figma - mockup das telas
-GitHub - versionamento de código
-XAML - desenvilvimento das telas
+- C#: desenvolvimento da plataforma desktop
+- PlpgSQL: banco de dados
+- Teams: realização das reuniões
+- Figma: mockup das telas
+- GitHub: versionamento de código
+- XAML: desenvilvimento das telas
 
-#### Contribuições Pessoais
+#### Contribuições Pessoais 🗃️
 Realizei o mockup das telas da aplicação. Utilizei a ferramenta Figma, com ela eu pude estilizar as páginas de acordo com o que o cliente solicitou. Também auxiliei na execução de algumas partes do código responsável pelo front-end da aplicação.
 
 ➡️ Demonstração do funcionamento da aplicação
@@ -114,7 +114,7 @@ Coleta e processamento de contas de energia, água e gás para diversas empresas
 
 <img src="https://github.com/DanielaMeirelles/Portifolio_API/blob/main/Imagens%20e%20documentos/TecnologiasUtilizadas.png" width="300px"/>
 
-#### Contribuições Pessoais
+#### Contribuições Pessoais 🗃️
 
 Neste projeto fui responsabilizada pela função de Product Owner, onde mantinha o contato com a empresa parceira através do aplicativo Slack. Pude desenvolver junto com a equipe algumas coisas ligadas diretamente ao projeto, porém, meu foco principal era preparar as próximas Sprints. Pois o formato proposto para realizar o projeto foi a metodologia Scrum. Então através do orientador do projeto, utilizei de técnicas de Engenharia de Software, tais como o DOD (Definition of Done) e o DOR (Definition of Ready).
 
@@ -178,7 +178,9 @@ Principal responsável pelo designer do projeto. Realizei o desenvolvimento das 
   </table>
 
 #### Soft Skills
-- Comunicação: Precisei exercitar minhas habilidades de comunicação para viabilizar as reuniões semanais levando em conta as disponibilidades dos membros, que não cursavam as mesmas disciplinas.
+- Comunicação: como Product Owner da equipe, foi de extrema importância para o desenvolvimento do projeto.
+- Autonomia: foi necessária para desenvolver todo o escopo do projeto.
+- Liderança: utilizei para a tomada de decisões com relação as funcionalidades que seriam entregues.
 
 ### Parceiro acadêmico 2RP - 2022-2
 O desafio proposto, consistia em desenvolver um sistema que faça o controle da jornada de trabalho do colaborador, identifique e classifique horas extras, controle das horas extras e sobreavisos, integração para consumo de dados dos colaboradores com o ADP, integração com o login e extração padronizada das horas executadas. Acesso de administrador (master para os departamentos pessoal e financeiro), gestor (aprovação e lançamento) e colaborador (apontar horas extras).
@@ -191,7 +193,7 @@ O desafio proposto, consistia em desenvolver um sistema que faça o controle da 
 - BrModelo: modelagem conceitual do banco de dados
 - Vertabelo: modelagem lógica do banco de dados
 
-#### Contribuições Pessoais
+#### Contribuições Pessoais 🗃️
 Apresente suas contribuições no projeto. Foque nas funcionalidades em que você mais atuou. Descreva sua atuação em detalhes, especificando que tecnologias você utilizou.
 Neste projeto recebi a designação para atuar como Product Owner. Fui responsável por desenvolver toda a parte da documentação do projeto. Também atuei no design das telas da aplicação. Utilizei as ferramentas Figma e o pacote Office.
 
@@ -210,24 +212,28 @@ Neste projeto recebi a designação para atuar como Product Owner. Fui responsá
 - Dashboard com acompanhamento em tempo real das horas extras executadas com filtro cliente, CR e colaborador;
 
 ➡️ Protótipo das telas
-🎯 <p>Tela Hora Extra do Gestor</p>
+<p>🌟Tela Hora Extra do Gestor</p>
 <img src="https://github.com/DanielaMeirelles/Portifolio_API/blob/main/Imagens%20e%20documentos/hora_extra_gestor.png" width="500" height="400" align="center">
-🎯 <p>Tela Sobreaviso do Funcionário</p>
+<p>🌟Tela Sobreaviso do Funcionário</p>
 <img src="https://github.com/DanielaMeirelles/Portifolio_API/blob/main/Imagens%20e%20documentos/sobreaviso_funcionario.png" width="600" height="300" align="center">
-🎯 <p>Tela Sobreaviso do Gestor</p>
+<p>🌟Tela Sobreaviso do Gestor</p>
 <img src="https://github.com/DanielaMeirelles/Portifolio_API/blob/main/Imagens%20e%20documentos/sobreaviso_gestor.png" width="600" height="300" align="center">
-🎯 <p>Tela Centro de Resultados</p>
+<p>🌟Tela Centro de Resultados</p>
 <img src="https://github.com/DanielaMeirelles/Portifolio_API/blob/main/Imagens%20e%20documentos/tela%20centro%20de%20resultads.png" width="600" height="300" align="center">
 
 ➡️ Modelagem do banco de dados
-🎯 <p>Modelo Conceitual</p>
+<p>📑Modelo Conceitual</p>
 <img src="https://github.com/DanielaMeirelles/Portifolio_API/blob/main/Imagens%20e%20documentos/mconceitual.jpeg" width="600" height="300" align="center">
-🎯 <p>Modelo Lógico</p>
+<p>📑Modelo Lógico</p>
 <img src="https://github.com/DanielaMeirelles/Portifolio_API/blob/main/Imagens%20e%20documentos/mlogico.png" width="600" height="300" align="center">
 
 #### Hard Skills 👩‍💻
 - HTML: nível intermediário
 - CSS: nível intermediário
+- Vertabelo: nível intermediário
+- BrModelo: nível intermediário
 
 #### Soft Skills
-- Comunicação: Precisei exercitar minhas habilidades de comunicação para viabilizar as reuniões semanais levando em conta as disponibilidades dos membros, que não cursavam as mesmas disciplinas.
+- Comunicação: como Product Owner da equipe, foi de extrema importância para o desenvolvimento do projeto.
+- Autonomia: foi necessária para desenvolver todo o escopo do projeto.
+- Liderança: utilizei para a tomada de decisões com relação as funcionalidades que seriam entregues.
