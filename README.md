@@ -33,7 +33,7 @@ No momento estou cursando Tecnólogo em Banco de Dados na Fatec de São José do
 
 ### Em 2020-2
 
-Meu primeiro Projeto Integrador foi realizado no curso de Análise e Desenvolvimento de Sistemas. O nosso cliente foi interno, sendo o Professor Antônio Egydio o nosso cliente. E o problema proposto foi a necessidade de nosso cliente em vender os seus conteúdos acadêmicos pela internet. Então a nossa proposta para a solução do problema foi desenvolver um site para venda do conteúdo acadêmico, considerando sua elaboração para atender o ciclo completo, desde a inclusão de novos materiais pelo proprietário do site, até a conclusão da venda.
+Meu primeiro Projeto Integrador foi realizado no curso de Análise e Desenvolvimento de Sistemas. O nosso cliente foi interno, sendo o Professor Antônio Egydio. E o problema proposto foi a necessidade de nosso cliente em vender os seus conteúdos acadêmicos pela internet. Então a nossa proposta para a solução do problema foi desenvolver um site para venda do conteúdo acadêmico, considerando sua elaboração para atender o ciclo completo, desde a inclusão de novos materiais pelo proprietário do site, até a conclusão da venda.
 
 #### Tecnologias Utilizadas
 
@@ -45,7 +45,7 @@ Meu primeiro Projeto Integrador foi realizado no curso de Análise e Desenvolvim
 
 #### Contribuições Pessoais 🗃️
 
-Produção dos conteúdos da matéria de Laboratório de Hardware. Que foi um dos requisitos do cliente, para ser inserido no site como um dos conteúdos acadêmicos. Para a execução dessa funcionalidade, utilizei o powerpoint e o word.
+Produção dos conteúdos da matéria de Laboratório de Hardware. Um dos requisitos do cliente foi a inserção no site do conteúdo da disciplina Laboratório de Hardware como material acadêmico. Para a execução dessa funcionalidade, utilizei o powerpoint e o word.
 Também auxiliei na edição de algumas coisas referêntes aos outros conteúdos acadêmicos. Como por exemplo, atualização do conteúdo, melhorias na formatação.
 
 ➡️ Exemplo do card desenvolvido para auxiliar no desenvolvimento do projeto:
@@ -60,11 +60,12 @@ Também auxiliei na edição de algumas coisas referêntes aos outros conteúdos
 
 #### Soft Skills
 - Comunicação: foi necessário para que pudessemos alinhar o andamento do projeto. Porque, foi durante a pandemia, portanto, foi realizado remotamente utilizando o aplicativo Microsoft Teams para fazer as reuniões, e foi utilizado também o whatsapp para dar suporte.
-- Auto didata: foi necessário para que eu pudesse desenvolver as coisas do projeto, justamente por conta de ser no formato remoto.
+- Autodidata: foi necessário para que eu pudesse desenvolver os itens do projeto, justamente por conta de ser no formato remoto.
 - Organização: utilizei maneiras de organizar os arquivos, aprendizados e conteúdos necessários para o desenvolvimento do projeto, com o foco para obter o máximo de qualidade nas entregas dos meus trabalhos.
 
 [Repositório do Projeto](https://github.com/DanielaMeirelles/Equipe_Lider-Projeto_Integrador)
 
+---
 ### Parceiro acadêmico GSW Soluções Integradas - Em 2021-1
 <img src="https://github.com/DanielaMeirelles/Portifolio_API/blob/main/Imagens%20e%20documentos/logo%20gsw.jpeg" width="300px" align="center"/>
 
@@ -88,7 +89,7 @@ Os dados visualizados no dashboard foram:
 - XAML: desenvilvimento das telas
 
 #### Contribuições Pessoais 🗃️
-Realizei o mockup das telas da aplicação. Utilizei a ferramenta Figma, com ela eu pude estilizar as páginas de acordo com o que o cliente solicitou. Também auxiliei na execução de algumas partes do código responsável pelo front-end da aplicação.
+Realizei o mockup das telas da aplicação. Utilizei a ferramenta Figma e com ela eu pude estilizar as páginas de acordo com o que o cliente solicitou. Também auxiliei na execução de algumas partes do código responsável pelo front-end da aplicação.
 
 ➡️ Demonstração do funcionamento da aplicação
 <img src="https://github.com/DanielaMeirelles/Portifolio_API/blob/main/Imagens%20e%20documentos/GIFprototipo.gif">
@@ -106,6 +107,7 @@ Realizei o mockup das telas da aplicação. Utilizei a ferramenta Figma, com ela
 - Comunicação: exercitar minhas habilidades de comunicação se fez necessária para o acompanhamento do desenvolvimento do projeto. Pois, durante esse semestre, também estivemos no ensino remoto.
 - Colaboração: utilizei minhas habilidades colaborativas para a realização de trabalhos em conjunto com os outros membros da equipe.
 
+---
 ### Parceiro acadêmico Tecsus - Em 2022-1
 
 Coleta e processamento de contas de energia, água e gás para diversas empresas dos setores do atacado e varejo. Cada conta coletada precisa ter todos os seus campos digitados e salvos em banco de dados para eventuais consultas e análises técnicas/financeiras que podem trazer ao cliente oportunidades de redução de custos e alteração de contratos.Cada unidade do cliente pode possuir vários contratos (água, energia ou gás), cada contrato pode possuir uma ou mais contas (faturas de água, energia ou gás) por mês.Todos esses contratos estão ligados a uma concessionária de abastecimento.É importante observar que a interface de digitação (cadastro) das contas, deve possuir um UX que facilite a operação de visualização da conta em PDF para digitação dos campos da conta, com uso de atalhos no teclado e navegação via teclas.
@@ -116,7 +118,7 @@ Coleta e processamento de contas de energia, água e gás para diversas empresas
 
 #### Contribuições Pessoais 🗃️
 
-Neste projeto fui responsabilizada pela função de Product Owner, onde mantinha o contato com a empresa parceira através do aplicativo Slack. Pude desenvolver junto com a equipe algumas coisas ligadas diretamente ao projeto, porém, meu foco principal era preparar as próximas Sprints. Pois o formato proposto para realizar o projeto foi a metodologia Scrum. Então através do orientador do projeto, utilizei de técnicas de Engenharia de Software, tais como o DOD (Definition of Done) e o DOR (Definition of Ready).
+Neste projeto fui responsabilizada pela função de Product Owner, onde mantinha o contato com a empresa parceira através do aplicativo Slack. Pude desenvolver junto com a equipe alguns itens ligados diretamente ao projeto, porém, meu foco principal era preparar as próximas Sprints. Pois o formato proposto para realizar o projeto foi a metodologia Scrum. Então através do orientador do projeto, utilizei de técnicas de Engenharia de Software, tais como o DOD (Definition of Done) e o DOR (Definition of Ready).
 
 [Fluxograma da aplipacação](https://github.com/DanielaMeirelles/Portifolio_API/blob/main/Imagens%20e%20documentos/Mapa%20de%20experi%C3%AAncia%20do%20cliente%20completo.png)
 
@@ -182,6 +184,7 @@ Principal responsável pelo designer do projeto. Realizei o desenvolvimento das 
 - Autonomia: foi necessária para desenvolver todo o escopo do projeto.
 - Liderança: utilizei para a tomada de decisões com relação as funcionalidades que seriam entregues.
 
+---
 ### Parceiro acadêmico 2RP - 2022-2
 O desafio proposto, consistia em desenvolver um sistema que faça o controle da jornada de trabalho do colaborador, identifique e classifique horas extras, controle das horas extras e sobreavisos, integração para consumo de dados dos colaboradores com o ADP, integração com o login e extração padronizada das horas executadas. Acesso de administrador (master para os departamentos pessoal e financeiro), gestor (aprovação e lançamento) e colaborador (apontar horas extras).
 
@@ -194,8 +197,8 @@ O desafio proposto, consistia em desenvolver um sistema que faça o controle da 
 - Vertabelo: modelagem lógica do banco de dados
 
 #### Contribuições Pessoais 🗃️
-Apresente suas contribuições no projeto. Foque nas funcionalidades em que você mais atuou. Descreva sua atuação em detalhes, especificando que tecnologias você utilizou.
-Neste projeto recebi a designação para atuar como Product Owner. Fui responsável por desenvolver toda a parte da documentação do projeto. Também atuei no design das telas da aplicação. Utilizei as ferramentas Figma e o pacote Office.
+
+Neste projeto recebi a designação para atuar como Product Owner. Fui responsável por desenvolver toda a parte da documentação do projeto. Também atuei no design das telas da aplicação e realizei a modelagem tanto conceitual como a lógica do banco de dados.
 
 ☑️ Levantamento de requisitos do cliente
 - Integração para consumir os dados: matrícula, nome completo, turno (Entrada 1, Saída 1, Entrada 2, Saída 2);
@@ -237,3 +240,68 @@ Neste projeto recebi a designação para atuar como Product Owner. Fui responsá
 - Comunicação: como Product Owner da equipe, foi de extrema importância para o desenvolvimento do projeto.
 - Autonomia: foi necessária para desenvolver todo o escopo do projeto.
 - Liderança: utilizei para a tomada de decisões com relação as funcionalidades que seriam entregues.
+
+---
+### Parceiro acadêmico Tecsus - 2024-1
+O desafio do projeto consistia do desenvolvimento de um dashboard web de alta complexidade para análise e exibição de dados de faturas de energia e água. Tendo como objetivo fornecer insights valiosos para empresas clientes da TecSUS, permitindo a redução de custos e otimização de contratos.
+A solução propósta foi o desenvolvimento de um sistema capaz de gerenciar o consumo de recursos (água e energia) de unidades, concessionárias e contratos, com a capacidade de gerar relatórios e alertas baseados nos dados coletados. Em conjunto com o desenvolvimento do projeto, foram aplicadas as técnicas de DevOps.
+
+## Tecnologias utilizadas
+<details>
+  <summary>Ferramenta de Gestão de Projetos</summary>
+  
+- [Jira](https://www.atlassian.com/br/software/jira)
+</details>
+<details>
+<summary>Front-End</summary>
+  
+- [Power Bi](https://powerbi.microsoft.com/pt-br/desktop/)
+- [Vue](https://vuejs.org/)
+- [Typescript](https://www.typescriptlang.org/)
+- [HTML](https://www.w3schools.com/css/)
+- [CSS](https://www.w3schools.com/css/)
+
+</details>
+
+<details>
+<summary>Back-End</summary>
+
+- [Typescript](https://www.typescriptlang.org/)
+
+- [Node](https://nodejs.org/en)
+
+</details>
+
+<details>
+<summary>Database</summary>
+
+- [MySQL](https://www.mysql.com/))
+</details>
+
+<details>
+<summary>Meetings and Communication</summary>
+
+- [Discord](https://discord.com/?msclkid=b4f5af84b8f811ecbd81c127a0ae68a7)
+
+- [Whatsapp](https://www.whatsapp.com/)
+
+- [Slack](https://slack.com/intl/pt-br/?msclkid=c00e628eb8f811ecaef374bb86d7f056)
+</details>
+
+#### Contribuições Pessoais 🗃️
+
+- Desenvolvi a modelagem do banco de dados utilizando a metodologia estrela (Star Schema), visando otimizar o desempenho em consultas analíticas e simplificar o processo de extração de dados.  
+- Criei o script SQL para a criação das tabelas do banco de dados, definindo relacionamentos, chaves primárias e estrangeiras, bem como índices para otimizar a performance.  
+- Implementei triggers personalizados para automatizar processos cruciais do sistema, que automatizavam a inserção de novos dados em tabelas específicas. Esses triggers realizavam cálculos pré-estabelecidos para verificar se um valor excedeu limites definidos e registram automaticamente quantos porcento o valor ultrapassou o limite, facilitando o monitoramento em tempo real e a auditoria dos dados no sistema.
+  
+➡️ Modelagem do banco de dados
+<p>📑Modelo Lógico</p>
+<img src="https://github.com/quarks-team/Projeto-Integrador-TecSUS-Database/blob/main/modelagem_banco_API_v.06.png" width="600" height="600" align="center">
+
+-[Script do Banco](https://github.com/quarks-team/Projeto-Integrador-TecSUS-Database/blob/main/script_banco_API_v.07.sql)
+
+-[Trigger do Alerta de Consumo](https://github.com/quarks-team/Projeto-Integrador-TecSUS-Database/blob/main/trigger_alerta_consumo.sql)
+
+#### Hard Skills 👩‍💻
+
+#### Soft Skills
