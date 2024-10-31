@@ -293,6 +293,7 @@ A solução propósta foi o desenvolvimento de um sistema capaz de gerenciar o c
 - Desenvolvi a modelagem do banco de dados utilizando a metodologia estrela (Star Schema), visando otimizar o desempenho em consultas analíticas e simplificar o processo de extração de dados.  
 - Criei o script SQL para a criação das tabelas do banco de dados, definindo relacionamentos, chaves primárias e estrangeiras, bem como índices para otimizar a performance.  
 - Implementei triggers personalizados para automatizar processos cruciais do sistema, que automatizavam a inserção de novos dados em tabelas específicas. Esses triggers realizavam cálculos pré-estabelecidos para verificar se um valor excedeu limites definidos e registram automaticamente quantos porcento o valor ultrapassou o limite, facilitando o monitoramento em tempo real e a auditoria dos dados no sistema.
+- Contribuí para a estruturação inicial da aplicação web através da criação de wireframes no Figma, facilitando a comunicação entre a equipe de desenvolvimento e garantindo clareza no fluxo de navegação e usabilidade.
   
 ➡️ Modelagem do banco de dados
 <p>📑Modelo Lógico</p>
@@ -303,5 +304,11 @@ A solução propósta foi o desenvolvimento de um sistema capaz de gerenciar o c
 -[Trigger do Alerta de Consumo](https://github.com/quarks-team/Projeto-Integrador-TecSUS-Database/blob/main/trigger_alerta_consumo.sql)
 
 #### Hard Skills 👩‍💻
-
+- Vertabelo: nível intermediário
+- Figma: nível intermediário
+- MySQL: nível intermediário
+  
 #### Soft Skills
+- Comunicação: foi primordial para que todos da equipe entendessem como que os dados retornariam para realizar as consultas de acordo com o esperado.
+- Proatividade: essencial na busca pelas informações necessárias para o desenvolvimento correto da modelagem dos dados.
+- Autonomia: necessária para a realização dos wireframes das telas da aplicação.
