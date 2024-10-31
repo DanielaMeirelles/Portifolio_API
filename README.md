@@ -303,6 +303,12 @@ A solução propósta foi o desenvolvimento de um sistema capaz de gerenciar o c
 
 -[Trigger do Alerta de Consumo](https://github.com/quarks-team/Projeto-Integrador-TecSUS-Database/blob/main/trigger_alerta_consumo.sql)
 
+➡️ Protótipo das telas
+<p>🌟Tela Dashboard de Água</p>
+<img src="https://raw.githubusercontent.com/quarks-team/Projeto-Integrador-TecSUS/refs/heads/main/Documents/Gifs/gif-dash-agua.gif" width="750" height="600" align="center">
+<p>🌟Tela Dashboard de Energia</p>
+<img src="https://raw.githubusercontent.com/quarks-team/Projeto-Integrador-TecSUS/refs/heads/main/Documents/Gifs/gif-dash-luz.gif" width="750" height="600" align="center">
+
 #### Hard Skills 👩‍💻
 - Vertabelo: nível intermediário
 - Figma: nível intermediário
