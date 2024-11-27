@@ -20,10 +20,12 @@ No momento estou cursando Tecnólogo em Banco de Dados na Fatec de São José do
 - JavaScript
 - HTML
 - CSS
+- Vue
 
 -> Conhecimentos de Banco de Dados:
 - Oracle
 - MySQL
+- MongoDB
 
 -> Sistema operacional:
 - Windows
@@ -35,7 +37,7 @@ No momento estou cursando Tecnólogo em Banco de Dados na Fatec de São José do
 
 Meu primeiro Projeto Integrador foi realizado no curso de Análise e Desenvolvimento de Sistemas. O nosso cliente foi interno, sendo o Professor Antônio Egydio. E o problema proposto foi a necessidade de nosso cliente em vender os seus conteúdos acadêmicos pela internet. Então a nossa proposta para a solução do problema foi desenvolver um site para venda do conteúdo acadêmico, considerando sua elaboração para atender o ciclo completo, desde a inclusão de novos materiais pelo proprietário do site, até a conclusão da venda.
 
-#### Tecnologias Utilizadas
+#### Tecnologias Utilizadas para o Desenvolvimento do Projeto
 
 - PHP: desenvolvimento da plataforma web
 - Bootstrap: estilização das páginas
@@ -79,7 +81,7 @@ Os dados visualizados no dashboard foram:
  - Porcentagem de dedicação de cada integrante da equipe por projeto;
  - Quantidade de tasks em aberto.
 
-#### Tecnologias Utilizadas
+#### Tecnologias Utilizadas para o Desenvolvimento do Projeto
 
 - C#: desenvolvimento da plataforma desktop
 - PlpgSQL: banco de dados
@@ -94,9 +96,10 @@ Realizei o mockup das telas da aplicação. Utilizei a ferramenta Figma e com el
 ➡️ Demonstração do funcionamento da aplicação
 <img src="https://github.com/DanielaMeirelles/Portifolio_API/blob/main/Imagens%20e%20documentos/GIFprototipo.gif">
 
-➡️ Demonstração do código em XAML realizado
-<br>
-<img src="https://github.com/DanielaMeirelles/Portifolio_API/blob/main/Imagens%20e%20documentos/MainWindow%20-%201%20(XAML).png" width="600px"/>
+<details>
+ <sumary>Demonstração do código em XAML realizado</sumary>
+ <img src="https://github.com/DanielaMeirelles/Portifolio_API/blob/main/Imagens%20e%20documentos/MainWindow%20-%201%20(XAML).png" width="600px"/>
+</details>
 
 #### Hard Skills 👩‍💻
 - Figma: total autonomia
@@ -107,12 +110,14 @@ Realizei o mockup das telas da aplicação. Utilizei a ferramenta Figma e com el
 - Comunicação: exercitar minhas habilidades de comunicação se fez necessária para o acompanhamento do desenvolvimento do projeto. Pois, durante esse semestre, também estivemos no ensino remoto.
 - Colaboração: utilizei minhas habilidades colaborativas para a realização de trabalhos em conjunto com os outros membros da equipe.
 
+[Repositório do Projeto](https://github.com/Leo0256/Equipe_Lider-Projeto_GSW)
+
 ---
 ### Parceiro acadêmico Tecsus - Em 2022-1
 
 Coleta e processamento de contas de energia, água e gás para diversas empresas dos setores do atacado e varejo. Cada conta coletada precisa ter todos os seus campos digitados e salvos em banco de dados para eventuais consultas e análises técnicas/financeiras que podem trazer ao cliente oportunidades de redução de custos e alteração de contratos.Cada unidade do cliente pode possuir vários contratos (água, energia ou gás), cada contrato pode possuir uma ou mais contas (faturas de água, energia ou gás) por mês.Todos esses contratos estão ligados a uma concessionária de abastecimento.É importante observar que a interface de digitação (cadastro) das contas, deve possuir um UX que facilite a operação de visualização da conta em PDF para digitação dos campos da conta, com uso de atalhos no teclado e navegação via teclas.
 
-#### Tecnologias Utilizadas
+#### Tecnologias Utilizadas para o Desenvolvimento do Projeto
 
 <img src="https://github.com/DanielaMeirelles/Portifolio_API/blob/main/Imagens%20e%20documentos/TecnologiasUtilizadas.png" width="300px"/>
 
@@ -120,7 +125,10 @@ Coleta e processamento de contas de energia, água e gás para diversas empresas
 
 Neste projeto fui responsabilizada pela função de Product Owner, onde mantinha o contato com a empresa parceira através do aplicativo Slack. Pude desenvolver junto com a equipe alguns itens ligados diretamente ao projeto, porém, meu foco principal era preparar as próximas Sprints. Pois o formato proposto para realizar o projeto foi a metodologia Scrum. Então através do orientador do projeto, utilizei de técnicas de Engenharia de Software, tais como o DOD (Definition of Done) e o DOR (Definition of Ready).
 
-[Fluxograma da aplipacação](https://github.com/DanielaMeirelles/Portifolio_API/blob/main/Imagens%20e%20documentos/Mapa%20de%20experi%C3%AAncia%20do%20cliente%20completo.png)
+<details>
+ <sumary>Fluxograma da aplipacação</sumary>
+ <img src="https://github.com/DanielaMeirelles/Portifolio_API/blob/main/Imagens%20e%20documentos/Mapa%20de%20experi%C3%AAncia%20do%20cliente%20completo.png"/>
+</details>
 
 #### Hard Skills 👩‍💻
 Principal responsável pelo designer do projeto. Realizei o desenvolvimento das telas com base nas heurísticas de Nielsen e no W3C, visando uma melhor experiência do usuário e responsividade (UX / UI).
@@ -183,12 +191,14 @@ Principal responsável pelo designer do projeto. Realizei o desenvolvimento das 
 - Comunicação: como Product Owner da equipe, foi de extrema importância para o desenvolvimento do projeto.
 - Autonomia: foi necessária para desenvolver todo o escopo do projeto.
 - Liderança: utilizei para a tomada de decisões com relação as funcionalidades que seriam entregues.
+ 
+[Repositório do Projeto](https://github.com/UniversalDevs/Projeto_API_TecSus)
 
 ---
 ### Parceiro acadêmico 2RP - 2022-2
 O desafio proposto, consistia em desenvolver um sistema que faça o controle da jornada de trabalho do colaborador, identifique e classifique horas extras, controle das horas extras e sobreavisos, integração para consumo de dados dos colaboradores com o ADP, integração com o login e extração padronizada das horas executadas. Acesso de administrador (master para os departamentos pessoal e financeiro), gestor (aprovação e lançamento) e colaborador (apontar horas extras).
 
-#### Tecnologias Utilizadas
+#### Tecnologias Utilizadas para o Desenvolvimento do Projeto
 - React: criação das telas
 - NodeJS: desenvolvimento da lógica do sistema
 - Bootstrap: responsividade das páginas
@@ -241,12 +251,15 @@ Neste projeto recebi a designação para atuar como Product Owner. Fui responsá
 - Autonomia: foi necessária para desenvolver todo o escopo do projeto.
 - Liderança: utilizei para a tomada de decisões com relação as funcionalidades que seriam entregues.
 
+#### Observação
+O repositório do projeto não se encontra disponível.
+
 ---
 ### Parceiro acadêmico Tecsus - 2024-1
 O desafio do projeto consistia do desenvolvimento de um dashboard web de alta complexidade para análise e exibição de dados de faturas de energia e água. Tendo como objetivo fornecer insights valiosos para empresas clientes da TecSUS, permitindo a redução de custos e otimização de contratos.
 A solução propósta foi o desenvolvimento de um sistema capaz de gerenciar o consumo de recursos (água e energia) de unidades, concessionárias e contratos, com a capacidade de gerar relatórios e alertas baseados nos dados coletados. Em conjunto com o desenvolvimento do projeto, foram aplicadas as técnicas de DevOps.
 
-## Tecnologias utilizadas
+## Tecnologias utilizadas no Desenvolvimento do Projeto
 <details>
   <summary>Ferramenta de Gestão de Projetos</summary>
   
@@ -299,9 +312,15 @@ A solução propósta foi o desenvolvimento de um sistema capaz de gerenciar o c
 <p>📑Modelo Lógico</p>
 <img src="https://github.com/quarks-team/Projeto-Integrador-TecSUS-Database/blob/main/modelagem_banco_API_v.06.png" width="600" height="600" align="center">
 
--[Script do Banco](https://github.com/quarks-team/Projeto-Integrador-TecSUS-Database/blob/main/script_banco_API_v.07.sql)
+<details>
+ <sumary>Script do Banco</sumary>
+ <img src="https://github.com/quarks-team/Projeto-Integrador-TecSUS-Database/blob/main/script_banco_API_v.07.sql"/>
+</details>
 
--[Trigger do Alerta de Consumo](https://github.com/quarks-team/Projeto-Integrador-TecSUS-Database/blob/main/trigger_alerta_consumo.sql)
+<details>
+ <sumary>Trigger do Alerta de Consumo</sumary>
+ <img src="https://github.com/quarks-team/Projeto-Integrador-TecSUS-Database/blob/main/trigger_alerta_consumo.sql"/>
+</details>
 
 ➡️ Protótipo das telas
 <p>🌟Tela Dashboard de Água</p>
@@ -318,3 +337,44 @@ A solução propósta foi o desenvolvimento de um sistema capaz de gerenciar o c
 - Comunicação: foi primordial para que todos da equipe entendessem como que os dados retornariam para realizar as consultas de acordo com o esperado.
 - Proatividade: essencial na busca pelas informações necessárias para o desenvolvimento correto da modelagem dos dados.
 - Autonomia: necessária para a realização dos wireframes das telas da aplicação.
+
+[Repositório do Projeto](https://github.com/quarks-team/Projeto-Integrador-TecSUS)
+
+---
+### Parceiro Acadêmico SPC Grafeno - 2024-2
+
+<img src="https://github.com/DanielaMeirelles/Portifolio_API/blob/main/Imagens%20e%20documentos/logo%20SPC%20Grafeno.jpeg"/>
+<br>
+<p> O desafio proposto pela empresa foi o desenvolvimento de produtos financeiros inovadores com base em técnicas de aprendizado de máquina. A empresa disponibilizou uma base de dados diversificada contendo informações históricas de ativos financeiros, transações e comportamentos de mercado.
+ O desafio consistiu em explorar essa base de dados para identificar padrões e oportunidades, visando criar produtos financeiros que trouxessem valor para a empresa.
+---
+ A solução proposta foi o desenvolvimento de um sistema que analisa a confiabilidade de um endossante utilizando algoritmos e modelos de IA. Esse sistema gerou um escore que reflete o quanto uma empresa mantém seu compromisso com o crédito. Dado que ter uma fatura geralmente garante que o valor contratado no adiantamento será pago, nossa solução vizou aprimorar o processo de avaliação tanto para a empresa quanto para seus clientes.</p>
+
+## Tecnologias Utilizadas no Desenvolvimento do Projeto
+
+- [Typescript](https://www.typescriptlang.org/)
+- [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [Node.js](https://nodejs.org/en)
+- [PostgreSql](https://https://www.postgresql.org/)
+- [Vue.js](https://vuejs.org/)
+- [Python](https://www.python.org/)
+- [Railway](https://railway.app/)
+- [Docker/Docker Compose](https://www.docker.com/)
+- [MongoDB](https://www.mongodb.com/pt-br/docs/)
+
+#### Contribuições Pessoais 🗃️
+Desenvolvi toda a parte do front-end da aplicação. Também fui Scrum Master.
+
+#### Hard Skills 👩‍💻
+- Vue.js: nível intermediário
+- Vuetify: nível intermediário
+- HTML: nível intermediário
+- CSS: nível intermediário
+- Jira: nível intermediário
+
+#### Soft Skills
+- Comunicação: 
+- Colaboração:
+- Entrega de Resultados:
+- Proatividade:
+- Autonomia:
