@@ -44,6 +44,7 @@ Meu primeiro Projeto Integrador foi realizado no curso de Análise e Desenvolvim
 - MySQL: Banco de Dados relacional
 - Teams: Realização das reuniões
 - GitHub: versionamento de código
+- Pacote Office: desenvolvimento do conteúdo do site
 
 #### Contribuições Pessoais 🗃️
 
@@ -52,7 +53,6 @@ Contribuí para a produção e atualização dos materiais da disciplina *Labora
 
 ➡️ Material Desenvolvido
  [Laboratório de Hardware](https://github.com/DanielaMeirelles/Portifolio_API/blob/main/Imagens%20e%20documentos/Laborat%C3%B3rio%20de%20Hardware-%20Componentes%20do%20computador.pdf)
-
 
 #### Hard Skills 👩‍💻
 - Pacote Office: Total autonomia.
@@ -92,12 +92,12 @@ Os dados visualizados no dashboard foram:
 **Desenvolvimento de Mockups e Suporte ao Front-End da Aplicação**  
 Elaborei os mockups das telas da aplicação utilizando a ferramenta Figma, garantindo que o design atendesse às especificações e necessidades do cliente. Além disso, contribui para a implementação do front-end, auxiliando no desenvolvimento de partes do código e assegurando a aderência do projeto ao layout proposto e à experiência do usuário desejada.
 
-➡️ Demonstração do funcionamento da aplicação
+<details>
+<p>➡️ Demonstração do funcionamento da aplicação</p>
 <img src="https://github.com/DanielaMeirelles/Portifolio_API/blob/main/Imagens%20e%20documentos/GIFprototipo.gif">
 
-<details>
- <sumary>Demonstração do código em XAML realizado</sumary>
-  <img src="https://github.com/DanielaMeirelles/Portifolio_API/blob/main/Imagens%20e%20documentos/MainWindow%20-%201%20(XAML).png" width="600px"/>
+<p>➡️ Demonstração do código em XAML realizado</p>
+<img src="https://github.com/DanielaMeirelles/Portifolio_API/blob/main/Imagens%20e%20documentos/MainWindow%20-%201%20(XAML).png" width="600px"/>
 </details>
 
 #### Hard Skills 👩‍💻
@@ -126,7 +126,7 @@ Coleta e processamento de contas de energia, água e gás para diversas empresas
 No projeto, desempenhei a função de Product Owner, sendo responsável pela comunicação com a empresa parceira por meio do aplicativo Slack. Colaborei com a equipe no desenvolvimento de itens relacionados ao projeto, com foco principal na preparação das próximas sprints, seguindo a metodologia ágil Scrum. Com o suporte do orientador do projeto, apliquei técnicas de Engenharia de Software, como *Definition of Done* (DoD) e *Definition of Ready* (DoR), para garantir a clareza e qualidade dos entregáveis e o alinhamento das expectativas entre as partes envolvidas.  
 
 <details>
- <sumary>Fluxograma da aplipacação</sumary>
+ <summary>Fluxograma da aplipacação</summary>
  <img src="https://github.com/DanielaMeirelles/Portifolio_API/blob/main/Imagens%20e%20documentos/Mapa%20de%20experi%C3%AAncia%20do%20cliente%20completo.png"/>
 </details>
 
@@ -224,8 +224,10 @@ No projeto, assumi a função de Product Owner, sendo responsável pela elabora�
 - Extração de relatório csv de todos os colaboradores com as horas trabalhadas (matrícula, nome, verba, quantidade de horas, cliente, CR, projeto, justificativa);
 - Aplicar regras de horas extras e sobreavisos na extração (classificação de HEs e cálculo do sobreaviso considerando as HEs conflitantes);
 - Dashboard com acompanhamento em tempo real das horas extras executadas com filtro cliente, CR e colaborador;
+  
+<details>
+ <summary>Protótipo das Telas</summary>
 
-➡️ Protótipo das telas
 <p>🌟Tela Hora Extra do Gestor</p>
 <img src="https://github.com/DanielaMeirelles/Portifolio_API/blob/main/Imagens%20e%20documentos/hora_extra_gestor.png" width="500" height="400" align="center">
 <p>🌟Tela Sobreaviso do Funcionário</p>
@@ -234,6 +236,8 @@ No projeto, assumi a função de Product Owner, sendo responsável pela elabora�
 <img src="https://github.com/DanielaMeirelles/Portifolio_API/blob/main/Imagens%20e%20documentos/sobreaviso_gestor.png" width="600" height="500" align="center">
 <p>🌟Tela Centro de Resultados</p>
 <img src="https://github.com/DanielaMeirelles/Portifolio_API/blob/main/Imagens%20e%20documentos/tela%20centro%20de%20resultads.png" width="600" height="500" align="center">
+
+</details>
 
 ➡️ Modelagem do banco de dados
 <p>📑Modelo Conceitual</p>
@@ -313,21 +317,19 @@ A solução propósta foi o desenvolvimento de um sistema capaz de gerenciar o c
 <p>📑Modelo Lógico</p>
 <img src="https://github.com/quarks-team/Projeto-Integrador-TecSUS-Database/blob/main/modelagem_banco_API_v.06.png" width="600" height="600" align="center">
 
-<details>
- <sumary>Script do Banco</sumary>
- <img src="https://github.com/quarks-team/Projeto-Integrador-TecSUS-Database/blob/main/script_banco_API_v.07.sql"/>
-</details>
+[📑Script do Banco](https://github.com/quarks-team/Projeto-Integrador-TecSUS-Database/blob/main/script_banco_API_v.07.sql)
+
+[📑Trigger do Alerta de Consumo](https://github.com/quarks-team/Projeto-Integrador-TecSUS-Database/blob/main/trigger_alerta_consumo.sql)
 
 <details>
- <sumary>Trigger do Alerta de Consumo</sumary>
- <img src="https://github.com/quarks-team/Projeto-Integrador-TecSUS-Database/blob/main/trigger_alerta_consumo.sql"/>
-</details>
+ <summary>Páginas da Aplicação</summary>
 
-➡️ Protótipo das telas
-<p>🌟Tela Dashboard de Água</p>
-<img src="https://raw.githubusercontent.com/quarks-team/Projeto-Integrador-TecSUS/refs/heads/main/Documents/Gifs/gif-dash-agua.gif" width="750" height="600" align="center">
-<p>🌟Tela Dashboard de Energia</p>
-<img src="https://raw.githubusercontent.com/quarks-team/Projeto-Integrador-TecSUS/refs/heads/main/Documents/Gifs/gif-dash-luz.gif" width="750" height="600" align="center">
+  <p>🌟Tela Dashboard de Água</p>
+  <img src="https://raw.githubusercontent.com/quarks-team/Projeto-Integrador-TecSUS/refs/heads/main/Documents/Gifs/gif-dash-agua.gif" width="750" height="600" align="center">
+  <p>🌟Tela Dashboard de Energia</p>
+  <img src="https://raw.githubusercontent.com/quarks-team/Projeto-Integrador-TecSUS/refs/heads/main/Documents/Gifs/gif-dash-luz.gif" width="750" height="600" align="center">
+
+</details>
 
 #### Hard Skills 👩‍💻
 - Vertabelo: nível intermediário
@@ -385,6 +387,8 @@ O projeto foi desenvolvido seguindo as diretrizes da **Lei Geral de Proteção d
 - Atuei como **Scrum Master**, coordenando sprints, removendo impedimentos e garantindo a aplicação das práticas ágeis no time.  
 
 <details>
+ <summary>Páginas da Aplicação</summary>
+ 
  <p>🌟Tela de Login</p>
  <img src="https://github.com/DanielaMeirelles/Portifolio_API/blob/main/Imagens%20e%20documentos/tela%20login.png" width="600" height="400"/>
 
