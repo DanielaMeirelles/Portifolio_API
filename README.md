@@ -47,15 +47,12 @@ Meu primeiro Projeto Integrador foi realizado no curso de Análise e Desenvolvim
 
 #### Contribuições Pessoais 🗃️
 
-Produção dos conteúdos da matéria de Laboratório de Hardware. Um dos requisitos do cliente foi a inserção no site do conteúdo da disciplina Laboratório de Hardware como material acadêmico. Para a execução dessa funcionalidade, utilizei o powerpoint e o word.
-Também auxiliei na edição de algumas coisas referêntes aos outros conteúdos acadêmicos. Como por exemplo, atualização do conteúdo, melhorias na formatação.
+**Desenvolvimento e Atualização de Conteúdo Acadêmico para o Laboratório de Hardware**  
+Contribuí para a produção e atualização dos materiais da disciplina *Laboratório de Hardware*, atendendo à solicitação do cliente para disponibilizar o conteúdo acadêmico no site institucional. Para isso, utilizei ferramentas como PowerPoint e Word para criar e formatar os materiais de forma clara e organizada. Além disso, colaborei na edição e melhoria de outros conteúdos acadêmicos, incluindo a atualização de informações e a otimização da formatação, assegurando a consistência e a qualidade do material disponibilizado.
 
-➡️ Exemplo do card desenvolvido para auxiliar no desenvolvimento do projeto:
-<br>
-<img src="https://github.com/DanielaMeirelles/Portifolio_API/blob/main/Imagens%20e%20documentos/C01.jpg" width="400px"/>
+➡️ Material Desenvolvido
+ [Laboratório de Hardware](https://github.com/DanielaMeirelles/Portifolio_API/blob/main/Imagens%20e%20documentos/Laborat%C3%B3rio%20de%20Hardware-%20Componentes%20do%20computador.pdf)
 
-➡️ Exemplo do material desenvolvido
-[Laboratório de Hardware](https://github.com/DanielaMeirelles/Portifolio_API/blob/main/Imagens%20e%20documentos/Laborat%C3%B3rio%20de%20Hardware-%20Componentes%20do%20computador.pdf)
 
 #### Hard Skills 👩‍💻
 - Pacote Office: Total autonomia.
@@ -91,14 +88,16 @@ Os dados visualizados no dashboard foram:
 - XAML: desenvilvimento das telas
 
 #### Contribuições Pessoais 🗃️
-Realizei o mockup das telas da aplicação. Utilizei a ferramenta Figma e com ela eu pude estilizar as páginas de acordo com o que o cliente solicitou. Também auxiliei na execução de algumas partes do código responsável pelo front-end da aplicação.
+
+**Desenvolvimento de Mockups e Suporte ao Front-End da Aplicação**  
+Elaborei os mockups das telas da aplicação utilizando a ferramenta Figma, garantindo que o design atendesse às especificações e necessidades do cliente. Além disso, contribui para a implementação do front-end, auxiliando no desenvolvimento de partes do código e assegurando a aderência do projeto ao layout proposto e à experiência do usuário desejada.
 
 ➡️ Demonstração do funcionamento da aplicação
 <img src="https://github.com/DanielaMeirelles/Portifolio_API/blob/main/Imagens%20e%20documentos/GIFprototipo.gif">
 
 <details>
  <sumary>Demonstração do código em XAML realizado</sumary>
- <img src="https://github.com/DanielaMeirelles/Portifolio_API/blob/main/Imagens%20e%20documentos/MainWindow%20-%201%20(XAML).png" width="600px"/>
+  <img src="https://github.com/DanielaMeirelles/Portifolio_API/blob/main/Imagens%20e%20documentos/MainWindow%20-%201%20(XAML).png" width="600px"/>
 </details>
 
 #### Hard Skills 👩‍💻
@@ -123,7 +122,8 @@ Coleta e processamento de contas de energia, água e gás para diversas empresas
 
 #### Contribuições Pessoais 🗃️
 
-Neste projeto fui responsabilizada pela função de Product Owner, onde mantinha o contato com a empresa parceira através do aplicativo Slack. Pude desenvolver junto com a equipe alguns itens ligados diretamente ao projeto, porém, meu foco principal era preparar as próximas Sprints. Pois o formato proposto para realizar o projeto foi a metodologia Scrum. Então através do orientador do projeto, utilizei de técnicas de Engenharia de Software, tais como o DOD (Definition of Done) e o DOR (Definition of Ready).
+**Atuação como Product Owner com Metodologia Scrum**  
+No projeto, desempenhei a função de Product Owner, sendo responsável pela comunicação com a empresa parceira por meio do aplicativo Slack. Colaborei com a equipe no desenvolvimento de itens relacionados ao projeto, com foco principal na preparação das próximas sprints, seguindo a metodologia ágil Scrum. Com o suporte do orientador do projeto, apliquei técnicas de Engenharia de Software, como *Definition of Done* (DoD) e *Definition of Ready* (DoR), para garantir a clareza e qualidade dos entregáveis e o alinhamento das expectativas entre as partes envolvidas.  
 
 <details>
  <sumary>Fluxograma da aplipacação</sumary>
@@ -208,7 +208,8 @@ O desafio proposto, consistia em desenvolver um sistema que faça o controle da 
 
 #### Contribuições Pessoais 🗃️
 
-Neste projeto recebi a designação para atuar como Product Owner. Fui responsável por desenvolver toda a parte da documentação do projeto. Também atuei no design das telas da aplicação e realizei a modelagem tanto conceitual como a lógica do banco de dados.
+**Atuação como Product Owner: Documentação, Design e Modelagem de Banco de Dados**  
+No projeto, assumi a função de Product Owner, sendo responsável pela elaboração completa da documentação, garantindo que todos os aspectos do projeto fossem bem detalhados e alinhados às necessidades. Contribuí também para o design das telas da aplicação, criando interfaces que atendiam aos objetivos do projeto. Além disso, realizei a modelagem conceitual e lógica do banco de dados, assegurando uma estrutura eficiente e alinhada aos requisitos funcionais e técnicos.  
 
 ☑️ Levantamento de requisitos do cliente
 - Integração para consumir os dados: matrícula, nome completo, turno (Entrada 1, Saída 1, Entrada 2, Saída 2);
@@ -343,38 +344,84 @@ A solução propósta foi o desenvolvimento de um sistema capaz de gerenciar o c
 ---
 ### Parceiro Acadêmico SPC Grafeno - 2024-2
 
-<img src="https://github.com/DanielaMeirelles/Portifolio_API/blob/main/Imagens%20e%20documentos/logo%20SPC%20Grafeno.jpeg"/>
+<img src="https://github.com/DanielaMeirelles/Portifolio_API/blob/main/Imagens%20e%20documentos/logo%20SPC%20Grafeno.jpeg" width="300px"/>
 <br>
-<p> O desafio proposto pela empresa foi o desenvolvimento de produtos financeiros inovadores com base em técnicas de aprendizado de máquina. A empresa disponibilizou uma base de dados diversificada contendo informações históricas de ativos financeiros, transações e comportamentos de mercado.
- O desafio consistiu em explorar essa base de dados para identificar padrões e oportunidades, visando criar produtos financeiros que trouxessem valor para a empresa.
+
+**Desafio:**  
+O objetivo do projeto foi desenvolver produtos financeiros inovadores utilizando técnicas de aprendizado de máquina. A empresa disponibilizou uma base de dados diversificada com informações históricas de ativos financeiros, transações e comportamentos de mercado. A tarefa consistiu em explorar essa base de dados para identificar padrões e oportunidades, resultando na criação de soluções financeiras que agregassem valor ao negócio.  
+
+**Solução Proposta:**  
+Desenvolvemos um sistema baseado em inteligência artificial para analisar a confiabilidade de endossantes. Utilizando algoritmos avançados, o sistema gera um escore que reflete o compromisso de uma empresa com o crédito, aprimorando o processo de avaliação. Essa abordagem buscou beneficiar tanto a empresa quanto seus clientes, garantindo maior segurança em transações financeiras que envolvem adiantamentos de faturas.
+
+**Conformidade com a LGPD:**  
+O projeto foi desenvolvido seguindo as diretrizes da **Lei Geral de Proteção de Dados (LGPD)**, garantindo a segurança e a privacidade das informações sensíveis. Três pilares importantes foram implementados no software:  
+- **Transparência:** Fornecimento de informações claras sobre o uso dos dados aos usuários.  
+- **Consentimento:** Garantia de que o processamento dos dados ocorre apenas com a permissão explícita dos titulares.  
+- **Deleção de Dados:** Implementação de funcionalidades para exclusão segura dos dados quando solicitado.
+
 ---
- A solução proposta foi o desenvolvimento de um sistema que analisa a confiabilidade de um endossante utilizando algoritmos e modelos de IA. Esse sistema gerou um escore que reflete o quanto uma empresa mantém seu compromisso com o crédito. Dado que ter uma fatura geralmente garante que o valor contratado no adiantamento será pago, nossa solução vizou aprimorar o processo de avaliação tanto para a empresa quanto para seus clientes.</p>
 
-## Tecnologias Utilizadas no Desenvolvimento do Projeto
+### Tecnologias Utilizadas  
 
-- [Typescript](https://www.typescriptlang.org/)
-- [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-- [Node.js](https://nodejs.org/en)
-- [PostgreSql](https://https://www.postgresql.org/)
-- [Vue.js](https://vuejs.org/)
-- [Python](https://www.python.org/)
-- [Railway](https://railway.app/)
-- [Docker/Docker Compose](https://www.docker.com/)
-- [MongoDB](https://www.mongodb.com/pt-br/docs/)
+- **Linguagens e Frameworks:**  
+  - [TypeScript](https://www.typescriptlang.org/)  
+  - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)  
+  - [Python](https://www.python.org/)  
+  - [Node.js](https://nodejs.org/en)  
+  - [Vue.js](https://vuejs.org/)  
+  - [Vuetify](https://vuetifyjs.com/)  
 
-#### Contribuições Pessoais 🗃️
-Desenvolvi toda a parte do front-end da aplicação. Também fui Scrum Master.
+- **Banco de Dados e Infraestrutura:**  
+  - [PostgreSQL](https://www.postgresql.org/)  
+  - [MongoDB](https://www.mongodb.com/pt-br/docs/)  
+  - [Docker/Docker Compose](https://www.docker.com/)  
+  - [Railway](https://railway.app/)  
 
-#### Hard Skills 👩‍💻
-- Vue.js: nível intermediário
-- Vuetify: nível intermediário
-- HTML: nível intermediário
-- CSS: nível intermediário
-- Jira: nível intermediário
+---
 
-#### Soft Skills
-- Comunicação: 
-- Colaboração:
-- Entrega de Resultados:
-- Proatividade:
-- Autonomia:
+### Contribuições Pessoais 🗃️  
+
+- Desenvolvi o **front-end** completo da aplicação, utilizando **Vue.js** e **Vuetify**, garantindo uma interface funcional e amigável para os usuários.  
+- Atuei como **Scrum Master**, coordenando sprints, removendo impedimentos e garantindo a aplicação das práticas ágeis no time.  
+
+<details>
+ <p>🌟Tela de Login</p>
+ <img src="https://github.com/DanielaMeirelles/Portifolio_API/blob/main/Imagens%20e%20documentos/tela%20login.png" width="600" height="400"/>
+
+ <p>🌟Tela de Cadastro</p>
+ <img src="https://github.com/DanielaMeirelles/Portifolio_API/blob/main/Imagens%20e%20documentos/tela%20cadastro.png" width="600" height="400"/>
+
+ <p>🌟Tela Home</p>
+ <img src="https://github.com/quarks-team/Projeto-Integrador-SPCGrafeno/blob/main/Documents/IMGS/HomeSprint3.png" width="600" height="400"/>
+
+ <p>🌟Tela de Configuração de Consentimento</p>
+ <img src="https://github.com/DanielaMeirelles/Portifolio_API/blob/main/Imagens%20e%20documentos/tela%20configura%C3%A7%C3%A3o%20de%20consentimento.png" width="600" height="400"/>
+
+ <p>🌟Tela para Carregar os dados da IA</p>
+ <img src="https://github.com/quarks-team/Projeto-Integrador-SPCGrafeno/blob/main/Documents/IMGS/Historico.jpg" width="600" height="400"/>
+
+ <p>🌟Tela Predição de Duplicatas</p>
+ <img src="https://github.com/DanielaMeirelles/Portifolio_API/blob/main/Imagens%20e%20documentos/tela%20documetos%20para%20IA.png" width="600" height="400"/>
+</details>
+
+---
+
+### Hard Skills 👩‍💻  
+
+- **Frontend:**  
+  - Vue.js: Nível Intermediário  
+  - Vuetify: Nível Intermediário  
+  - HTML/CSS: Nível Intermediário  
+
+- **Gerenciamento de Projetos:**  
+  - Jira: Nível Intermediário  
+
+---
+
+### Soft Skills  
+
+- **Comunicação:** Habilidade em articular ideias e colaborar com equipes multidisciplinares.  
+- **Colaboração:** Experiência em trabalhar de forma integrada com diferentes áreas do projeto.  
+- **Entrega de Resultados:** Compromisso com prazos e qualidade na entrega de soluções.  
+- **Proatividade:** Capacidade de identificar oportunidades de melhoria e propor soluções eficazes.  
+- **Autonomia:** Independência na tomada de decisões e execução de tarefas, alinhada aos objetivos do projeto.  
