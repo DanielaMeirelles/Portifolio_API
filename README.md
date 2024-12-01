@@ -35,7 +35,10 @@ No momento estou cursando Tecnólogo em Banco de Dados na Fatec de São José do
 
 ### Em 2020-2
 
-Meu primeiro Projeto Integrador foi realizado no curso de Análise e Desenvolvimento de Sistemas. O nosso cliente foi interno, sendo o Professor Antônio Egydio. E o problema proposto foi a necessidade de nosso cliente em vender os seus conteúdos acadêmicos pela internet. Então a nossa proposta para a solução do problema foi desenvolver um site para venda do conteúdo acadêmico, considerando sua elaboração para atender o ciclo completo, desde a inclusão de novos materiais pelo proprietário do site, até a conclusão da venda.
+**Cliente Interno: Desenvolvimento de um Site de Venda de Conteúdos Acadêmicos**
+
+Durante o curso de Análise e Desenvolvimento de Sistemas, participei do desenvolvimento do meu primeiro Projeto Integrador. O cliente deste projeto foi o Professor Antônio Egydio, que apresentou a necessidade de vender seus conteúdos acadêmicos de forma online.
+Nossa solução foi a criação de um site que contemplasse todo o ciclo de comercialização, desde a inclusão de novos materiais pelo professor até a conclusão da venda pelos usuários finais. O projeto foi planejado e desenvolvido com foco em atender às necessidades do cliente, garantindo uma experiência intuitiva tanto para o administrador do sistema quanto para os compradores.
 
 #### Tecnologias Utilizadas para o Desenvolvimento do Projeto
 
@@ -50,6 +53,7 @@ Meu primeiro Projeto Integrador foi realizado no curso de Análise e Desenvolvim
 
 **Desenvolvimento e Atualização de Conteúdo Acadêmico para o Laboratório de Hardware**  
 Contribuí para a produção e atualização dos materiais da disciplina *Laboratório de Hardware*, atendendo à solicitação do cliente para disponibilizar o conteúdo acadêmico no site institucional. Para isso, utilizei ferramentas como PowerPoint e Word para criar e formatar os materiais de forma clara e organizada. Além disso, colaborei na edição e melhoria de outros conteúdos acadêmicos, incluindo a atualização de informações e a otimização da formatação, assegurando a consistência e a qualidade do material disponibilizado.
+Essa experiência me proporcionou o aprendizado prático de análise de requisitos, desenvolvimento de soluções tecnológicas e trabalho em equipe para atender às demandas reais de um cliente.
 
 ➡️ Material Desenvolvido
  [Laboratório de Hardware](https://github.com/DanielaMeirelles/Portifolio_API/blob/main/Imagens%20e%20documentos/Laborat%C3%B3rio%20de%20Hardware-%20Componentes%20do%20computador.pdf)
@@ -114,7 +118,7 @@ Elaborei os mockups das telas da aplicação utilizando a ferramenta Figma, gara
 ---
 ### Parceiro acadêmico Tecsus - Em 2022-1
 
-Coleta e processamento de contas de energia, água e gás para diversas empresas dos setores do atacado e varejo. Cada conta coletada precisa ter todos os seus campos digitados e salvos em banco de dados para eventuais consultas e análises técnicas/financeiras que podem trazer ao cliente oportunidades de redução de custos e alteração de contratos.Cada unidade do cliente pode possuir vários contratos (água, energia ou gás), cada contrato pode possuir uma ou mais contas (faturas de água, energia ou gás) por mês.Todos esses contratos estão ligados a uma concessionária de abastecimento.É importante observar que a interface de digitação (cadastro) das contas, deve possuir um UX que facilite a operação de visualização da conta em PDF para digitação dos campos da conta, com uso de atalhos no teclado e navegação via teclas.
+Coleta e processamento de contas de energia, água e gás para diversas empresas dos setores do atacado e varejo. Cada conta coletada precisava ter todos os seus campos digitados e salvos em banco de dados para eventuais consultas e análises técnicas/financeiras que podessem trazer ao cliente oportunidades de redução de custos e alteração de contratos.Cada unidade do cliente pode possuir vários contratos (água, energia ou gás), cada contrato pode possuir uma ou mais contas (faturas de água, energia ou gás) por mês.Todos esses contratos estão ligados a uma concessionária de abastecimento.É importante observar que a interface de digitação (cadastro) das contas, deve possuir um UX que facilite a operação de visualização da conta em PDF para digitação dos campos da conta, com uso de atalhos no teclado e navegação via teclas.
 
 #### Tecnologias Utilizadas para o Desenvolvimento do Projeto
 
