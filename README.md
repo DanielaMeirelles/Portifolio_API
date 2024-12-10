@@ -4,7 +4,11 @@
 
 <img src="https://github.com/DanielaMeirelles/Portifolio_API/blob/main/Imagens%20e%20documentos/IMG_20200715_123251_821.jpg" width="100px" align="center"/>
 
-No momento estou cursando Tecnólogo em Banco de Dados na Fatec de São José dos Campos. Já possuo formação como Técnico em Química pela escola ECOMPO. Trabalhei como manipuladora de medicamentos no laboratório da Terapêutica. Durante o segundo semestre de 2023, participei de uma imersão na área da tecnologia com a empresa Climatempo, onde tive a oportunidade de desenvolver uma plataforma web para a visualização da previsão do tempo. Fiquei responsável por desenvolver na área do Front-end, utilizando JavaScript, HTML e CSS.
+Atualmente, estou cursando o Tecnólogo em Banco de Dados pela Fatec São José dos Campos, onde venho desenvolvendo habilidades técnicas em gestão e modelagem de dados, além de fundamentos avançados na área de tecnologia da informação. Possuo também formação técnica em Química pela ECOMPO, o que complementa minha capacidade analítica e metodológica.
+
+No segundo semestre de 2023, participei de uma imersão tecnológica promovida pela empresa Climatempo, onde atuei no desenvolvimento de uma plataforma web para visualização de previsões meteorológicas. Minha principal responsabilidade foi o desenvolvimento do Front-end, utilizando tecnologias como JavaScript, HTML e CSS, garantindo uma interface funcional e intuitiva.
+
+Além disso, minha experiência como manipuladora de medicamentos no laboratório da Terapêutica reforçou minha atenção aos detalhes e meu compromisso com a qualidade, competências que agregam valor às minhas entregas na área de tecnologia.
 
 ## Contatos
 * [GitHub](https://github.com/DanielaMeirelles)
