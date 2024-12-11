@@ -37,14 +37,14 @@ Além disso, minha experiência como manipuladora de medicamentos no laboratóri
 
 ## Meus Projetos
 
-### Em 2020-2
+## Em 2020-2
 
 **Cliente Interno: Desenvolvimento de um Site de Venda de Conteúdos Acadêmicos**
 
 Durante o curso de Análise e Desenvolvimento de Sistemas, participei do desenvolvimento do meu primeiro Projeto Integrador. O cliente deste projeto foi o Professor Antônio Egydio, que apresentou a necessidade de vender seus conteúdos acadêmicos de forma online.
 Nossa solução foi a criação de um site que contemplasse todo o ciclo de comercialização, desde a inclusão de novos materiais pelo professor até a conclusão da venda pelos usuários finais. O projeto foi planejado e desenvolvido com foco em atender às necessidades do cliente, garantindo uma experiência intuitiva tanto para o administrador do sistema quanto para os compradores.
 
-#### Tecnologias Utilizadas para o Desenvolvimento do Projeto
+### Tecnologias Utilizadas para o Desenvolvimento do Projeto
 
 - PHP: desenvolvimento da plataforma web
 - Bootstrap: estilização das páginas
@@ -73,7 +73,7 @@ Essa experiência me proporcionou o aprendizado prático de análise de requisit
 [Repositório do Projeto](https://github.com/DanielaMeirelles/Equipe_Lider-Projeto_Integrador)
 
 ---
-### Parceiro acadêmico GSW Soluções Integradas - Em 2021-1
+## Parceiro acadêmico GSW Soluções Integradas - Em 2021-1
 <img src="https://github.com/DanielaMeirelles/Portifolio_API/blob/main/Imagens%20e%20documentos/logo%20gsw.jpeg" width="300px" align="center"/>
 
 A empresa parceira solicitou um dashboard para poder visualizar o andamento dos projetos realizados pela empresa. Estes dados seriam utilizados pela diretoria para acompanhar o desenvolvimento das equipes.
@@ -86,7 +86,7 @@ Os dados visualizados no dashboard foram:
  - Porcentagem de dedicação de cada integrante da equipe por projeto;
  - Quantidade de tasks em aberto.
 
-#### Tecnologias Utilizadas para o Desenvolvimento do Projeto
+### Tecnologias Utilizadas para o Desenvolvimento do Projeto
 
 - C#: desenvolvimento da plataforma desktop
 - PlpgSQL: banco de dados
@@ -120,11 +120,11 @@ Elaborei os mockups das telas da aplicação utilizando a ferramenta Figma, gara
 [Repositório do Projeto](https://github.com/Leo0256/Equipe_Lider-Projeto_GSW)
 
 ---
-### Parceiro acadêmico Tecsus - Em 2022-1
+## Parceiro acadêmico Tecsus - Em 2022-1
 
 Coleta e processamento de contas de energia, água e gás para diversas empresas dos setores do atacado e varejo. Cada conta coletada precisava ter todos os seus campos digitados e salvos em banco de dados para eventuais consultas e análises técnicas/financeiras que podessem trazer ao cliente oportunidades de redução de custos e alteração de contratos.Cada unidade do cliente pode possuir vários contratos (água, energia ou gás), cada contrato pode possuir uma ou mais contas (faturas de água, energia ou gás) por mês.Todos esses contratos estão ligados a uma concessionária de abastecimento.É importante observar que a interface de digitação (cadastro) das contas, deve possuir um UX que facilite a operação de visualização da conta em PDF para digitação dos campos da conta, com uso de atalhos no teclado e navegação via teclas.
 
-#### Tecnologias Utilizadas para o Desenvolvimento do Projeto
+### Tecnologias Utilizadas para o Desenvolvimento do Projeto
 
 <img src="https://github.com/DanielaMeirelles/Portifolio_API/blob/main/Imagens%20e%20documentos/TecnologiasUtilizadas.png" width="300px"/>
 
@@ -203,10 +203,10 @@ Principal responsável pelo designer do projeto. Realizei o desenvolvimento das 
 [Repositório do Projeto](https://github.com/UniversalDevs/Projeto_API_TecSus)
 
 ---
-### Parceiro acadêmico 2RP - 2022-2
+## Parceiro acadêmico 2RP - 2022-2
 O desafio proposto, consistia em desenvolver um sistema que faça o controle da jornada de trabalho do colaborador, identifique e classifique horas extras, controle das horas extras e sobreavisos, integração para consumo de dados dos colaboradores com o ADP, integração com o login e extração padronizada das horas executadas. Acesso de administrador (master para os departamentos pessoal e financeiro), gestor (aprovação e lançamento) e colaborador (apontar horas extras).
 
-#### Tecnologias Utilizadas para o Desenvolvimento do Projeto
+### Tecnologias Utilizadas para o Desenvolvimento do Projeto
 - React: criação das telas
 - NodeJS: desenvolvimento da lógica do sistema
 - Bootstrap: responsividade das páginas
@@ -268,11 +268,11 @@ No projeto, assumi a função de Product Owner, sendo responsável pela elabora�
 O repositório do projeto não se encontra disponível.
 
 ---
-### Parceiro acadêmico Tecsus - 2024-1
+## Parceiro acadêmico Tecsus - 2024-1
 O desafio do projeto consistia do desenvolvimento de um dashboard web de alta complexidade para análise e exibição de dados de faturas de energia e água. Tendo como objetivo fornecer insights valiosos para empresas clientes da TecSUS, permitindo a redução de custos e otimização de contratos.
 A solução propósta foi o desenvolvimento de um sistema capaz de gerenciar o consumo de recursos (água e energia) de unidades, concessionárias e contratos, com a capacidade de gerar relatórios e alertas baseados nos dados coletados. Em conjunto com o desenvolvimento do projeto, foram aplicadas as técnicas de DevOps.
 
-## Tecnologias utilizadas no Desenvolvimento do Projeto
+### Tecnologias utilizadas no Desenvolvimento do Projeto
 <details>
   <summary>Ferramenta de Gestão de Projetos</summary>
   
@@ -352,7 +352,7 @@ A solução propósta foi o desenvolvimento de um sistema capaz de gerenciar o c
 [Repositório do Projeto](https://github.com/quarks-team/Projeto-Integrador-TecSUS)
 
 ---
-### Parceiro Acadêmico SPC Grafeno - 2024-2
+## Parceiro Acadêmico SPC Grafeno - 2024-2
 
 <img src="https://github.com/DanielaMeirelles/Portifolio_API/blob/main/Imagens%20e%20documentos/logo%20SPC%20Grafeno.jpeg" width="300px"/>
 <br>
@@ -371,7 +371,7 @@ O projeto foi desenvolvido seguindo as diretrizes da **Lei Geral de Proteção d
 
 ---
 
-### Tecnologias Utilizadas  
+### Tecnologias Utilizadas no Desenvolvimento do Projeto  
 
 - **Linguagens e Frameworks:**  
   - [TypeScript](https://www.typescriptlang.org/)  
