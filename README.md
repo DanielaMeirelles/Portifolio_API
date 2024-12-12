@@ -436,4 +436,6 @@ O projeto foi desenvolvido seguindo as diretrizes da **Lei Geral de Proteção d
 - **Colaboração:** Experiência em trabalhar de forma integrada com diferentes áreas do projeto.  
 - **Entrega de Resultados:** Compromisso com prazos e qualidade na entrega de soluções.  
 - **Proatividade:** Capacidade de identificar oportunidades de melhoria e propor soluções eficazes.  
-- **Autonomia:** Independência na tomada de decisões e execução de tarefas, alinhada aos objetivos do projeto.  
+- **Autonomia:** Independência na tomada de decisões e execução de tarefas, alinhada aos objetivos do projeto.
+
+[Repositório do Projeto](https://github.com/quarks-team/Projeto-Integrador-SPCGrafeno)
